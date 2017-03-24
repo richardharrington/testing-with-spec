@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59565a59-8a3e-4779-a16b-248c25af5d22" name="Default" comment="" />
+    <ignored path="testing-with-spec.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing-with-spec" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testing_with_spec/core_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/testing_with_spec/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <marker date="1489847362000" expanded="true" signature="0:474" ph="(defproject testing-with-spec ...)" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/test/testing_with_spec/core_test.clj" />
+        <option value="$PROJECT_DIR$/src/testing_with_spec/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="23" />
+    <option name="width" value="1250" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_with_spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base+system+user+dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-with-spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing_with_spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Keybindings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="ReplState" timestamp="1489888580744">{:repl-history {:ide [], :local [&quot;(tc/quick-check 10000 prop-sorted-first-less-than-last)&quot; &quot;(double-it-unless-it-is-over-100-in-which-case-return-42 76)&quot; &quot;(double-it-unless-it-is-over-100-in-which-case-return-42 99)&quot; &quot;(double-it-unless-it-is-over-100-in-which-case-return-42 100)&quot; &quot;(double-it-unless-it-is-over-100-in-which-case-return-42 101)&quot; &quot;(stest/summarize-results (stest/check 'double-it-with-a-twist))&quot; &quot;(stest/check `double-it-with-a-twist)&quot; &quot;(stest/summarize-results (stest/check `double-it-with-a-twist))&quot; &quot;(run-all-tests)&quot; &quot;(t/run-all-tests)&quot; &quot;(t/run-all-tests #\&quot;.*test\&quot;)&quot; &quot;(def ascending? &lt;=)&quot; &quot;(def ascending? (partial apply &lt;=))&quot; &quot;(ascending? [4 5 6 7 8])&quot; &quot;(ascending? [4 5 6 7 7 8])&quot; &quot;(ascending? [4 5 6 7 6 7 8])&quot; &quot;(ascending? [48])&quot; &quot;(defn ascending2?\n  \&quot;clojure.core/sorted? doesn't do what we might expect, so we write our\n  own function\&quot;\n  [coll]\n  (every? (fn [[a b]] (&lt;= a b))\n          (partition 2 1 coll)))&quot; &quot;(ascending2? [])&quot; &quot;(ascending2? [4])&quot; &quot;(defn ascending? [coll]\n  (or (empty? coll)\n      (apply &lt;= coll)))&quot; &quot;(ascending? [])&quot; &quot;(ascending? [4])&quot; &quot;(ascending? [4 3])&quot; &quot;(def p\n  (tcprop/for-all [v (tcgen/vector tcgen//int)]\n                  (let [s (sort v)]\n                    (and (= (count v) (count s))\n                         (ascending? s)))))&quot; &quot;(def p\n  (tcprop/for-all [v (tcgen/vector tcgen/int)]\n                  (let [s (sort v)]\n                    (and (= (count v) (count s))\n                         (ascending? s)))))&quot; &quot;(def p\n  (tcprop/for-all [v (tcgen/vector tcgen/int)]\n                  (let [s v]\n                    (and (= (count v) (count s))\n                         (ascending? s)))))&quot; &quot;(tc/quick-check 100 p)&quot; &quot;(gen/sample gen/int 20)&quot; &quot;(tcgen/sample tcgen/int 20)&quot; &quot;(sgen/sample sgen/int 20)&quot; &quot;(sgen/sample int? 20)&quot; &quot;(sgen/sample (sgen/generate int?) 20)&quot; &quot;(sgen/sample (s/gen int?) 20)&quot; &quot;(sgen/sample (s/gen int?) 200)&quot; &quot;(tcgen/sample tcgen/int )&quot; &quot;(take 30 (tcgen/sample-seq gen/int))&quot; &quot;(take 30 (tcgen/sample-seq tcgen/int))&quot; &quot;(tcgen/sample (tcgen/tuple tcgen/nat tcgen/boolean tcgen/ratio))&quot; &quot;(tcgen/sample (s/gen (s/coll-of nat-int? :kind vector?)))&quot; &quot;(sgen/sample (s/gen (s/coll-of nat-int? :kind vector?)))&quot; &quot;(tcgen/sample (tcgen/vector tcgen/nat))&quot; &quot;(sgen/sample (s/gen (s/vector-of nat-int?)))&quot; &quot;(sgen/sample (s/gen (s/cat nat-int? boolean? ratio?)))&quot; &quot;(sgen/sample (s/gen (s/cat :a nat-int? :b boolean? :c ratio?)))&quot; &quot;(tcgen/sample (s/gen (s/cat :a nat-int? :b boolean? :c ratio?)))&quot; &quot;(tcgen/sample (tcgen/fmap set (gen/vector gen/nat)))&quot; &quot;(tcgen/sample (tcgen/fmap set (tcgen/vector tcgen/nat)))&quot; &quot;(sgen/sample (s/gen (s/coll-of nat-int? :kind set?)))&quot; &quot;(tcgen/sample (tcgen/such-that not-empty (tcgen/list tcgen/boolean)))&quot; &quot;(tcgen/sample (tcgen/such-that not-empty (tcgen/vector tcgen/boolean)))&quot; &quot;(tcgen/sample (tcgen/such-that not-empty (tcgen/set tcgen/boolean)))&quot; &quot;(tcgen/sample (tcgen/such-that not-empty (tcgen/set tcgen/boolean)) 100)&quot; &quot;(tcgen/sample (tcgen/such-that empty? (tcgen/set tcgen/boolean)) 100)&quot; &quot;(defrecord User [user-name user-id email active?])&quot; &quot;(-&gt;User \&quot;me\&quot; 13 \&quot;a@b.com\&quot; true)&quot; &quot;(def domain (tcgen/elements [\&quot;gmail.com\&quot; \&quot;hotmail.com\&quot; \&quot;computer.org\&quot;]))&quot; &quot;(def email-gen\n  (tcgen/fmap (fn [[name domain-name]]\n                (str name \&quot;@\&quot; domain-name))\n              (tcgen/tuple (tcgen/not-empty tcgen/string-alphanumeric) domain)))&quot; &quot;(last (tcgen/sample email-gen))&quot; &quot;last (tcgen/sample email-gen)&quot; &quot;(def user-gen\n  (tcgen/fmap (partial apply -&gt;User)\n              (tcgen/tuple (tcgen/not-empty tcgen/string-alphanumeric)\n                           tcgen/nat\n                           email-gen\n                           tcgen/boolean)))&quot; &quot;(tcgen/sample user-gen)&quot; &quot;(s/def ::domain-simple #{\&quot;gmail.com\&quot; \&quot;hotmail.com\&quot; \&quot;computer.org\&quot;})&quot; &quot;(s/conform ::domain-simple \&quot;hotmail.com\&quot;)&quot; &quot;(s/def ::domain (s/or :gmail \&quot;gmail.com\&quot; :hotmail \&quot;hotmail.com\&quot; :computer \&quot;computer.org\&quot;))&quot; &quot;(s/def ::domain (s/or :gmail #{\&quot;gmail.com\&quot;} :hotmail #{\&quot;hotmail.com\&quot;} :computer #{\&quot;computer.org\&quot;}))&quot; &quot;(s/valid? ::domain \&quot;hotmail.com\&quot;)&quot; &quot;(s/def ::domain #{\&quot;gmail.com\&quot; \&quot;hotmail.com\&quot; \&quot;computer.org\&quot;})&quot; &quot;(s/conform ::domain \&quot;hotmail.com\&quot;)&quot; &quot;(s/exercise ::domain)&quot; &quot;(sgen/sample (s/gen ::domain))&quot; &quot;(tcgen/sample (s/gen ::domain))&quot; &quot;(s/describe ::domain)&quot; &quot;(s/def ::name (s/and string? not-empty #\&quot;[0-9A-Za-z_]+\&quot;))&quot; &quot;(s/def ::name (s/and string? not-empty (partial re-matches #\&quot;[0-9A-Za-z_]+\&quot;)))&quot; &quot;(s/exercise ::name)&quot; &quot;(s/def ::email #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                 (and (s/valid? ::name name))\n                      (s/valid? ::domain domain-name)))&quot; &quot;(s/conform ::email \&quot;richad@hotmail.com\&quot;)&quot; &quot;(s/conform ::email \&quot;richad@hotmail.co\&quot;)&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           (tcgen/fmap (fn [[name domain-name]]\n                                         (str name \&quot;@\&quot; domain-name))\n                                       (tcgen/tuple (tcgen/not-empty tcgen/string-alphanumeric) domain))))&quot; &quot;(s/explain ::email \&quot;richad@hotmail.co\&quot;)&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(tcgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (tcgen/tuple (tcgen/not-empty tcgen/string-alphanumeric) domain))))&quot; &quot;(s/describe ::email)&quot; &quot;(sgen/stri)&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/not-empty sgen/string-alphanumeric) domain))))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/not-empty tcgen/string-alphanumeric) domain))))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/such-that (complement #{\&quot;\&quot;}) sgen/string-alphanumeric) domain))))&quot; &quot;sgen/string-alphanumeric&quot; &quot;(type sgen/tuple)&quot; &quot;(type sgen/string-alphanumeric)&quot; &quot;(sgen/sample sgen/tuple)&quot; &quot;(sgen/sample (s/gen int?))&quot; &quot;(sgen/sample sgen/int))&quot; &quot;(sgen/sample sgen/int)&quot; &quot;(sgen/sample #(sgen/int))&quot; &quot;(sgen/sample (constantly sgen/int))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/not-empty (constantly gen/string-alphanumeric)) domain))))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/not-empty (gen/string-alphanumeric)) domain))))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name))\n                             (s/valid? ::domain domain-name))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                          (str name \&quot;@\&quot; domain-name))\n                                        (sgen/tuple (sgen/not-empty (sgen/string-alphanumeric)) domain))))&quot; &quot;(s/def ::email (s/with-gen #(let [[name domain-name] (clojure.string/split % #\&quot;@\&quot;)]\n                             (and (s/valid? ::name name)\n                                  (s/valid? ::domain domain-name)))\n                           #(sgen/fmap (fn [[name domain-name]]\n                                         (str name \&quot;@\&quot; domain-name))\n                                       (sgen/tuple (sgen/not-empty (sgen/string-alphanumeric)) domain))))&quot; &quot;(s/exercise ::email)&quot;], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.repl">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="false" name="repl" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="testing-with-spec" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.repl" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59565a59-8a3e-4779-a16b-248c25af5d22" name="Default" comment="" />
+      <created>1489846570393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489846570393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="23" width="1250" height="773" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46192053" sideWeight="0.5051395" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938188" sideWeight="0.4948605" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12748344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/testing_with_spec/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing_with_spec/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1489847362000" expanded="true" signature="0:474" ph="(defproject testing-with-spec ...)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1489847362000" expanded="true" signature="0:474" ph="(defproject testing-with-spec ...)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testing_with_spec/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing_with_spec/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
